@@ -12,7 +12,7 @@ which is recommended for ease of verification. (delete old worlds if it's gettin
 mess up the whole "70 should be fine" thing).
 
 Once you've chosen settings, click "Solidify Settings", and the button will remain pressed down as it applies
-the settings, this is normal. For me it takes ~10 seconds, but can take longer depending on hardware.
+the settings, this is normal. For me it takes ~10 seconds, but can take longer depending on hardware (hopefully ill be fixing this in a future update).
 If you want to change settings, do so and hit "Solidify Settings" again.
 
 
