@@ -6,7 +6,7 @@ FEATURES
 -RSG or SSG
 -Ability to input any seed
 -Any difficulty (Easy, Normal, Hard, Hardcore, Peaceful)
--Any delay (I recommend 2000 / framerate of video recording)
+-Any delay (I recommend 2000 / framerate of video recording in fps)
 
 -Possibly in a future update (in no particular order):
     -Support for other minecraft versions past 1.9 (priority 1.14 and 1.15)
