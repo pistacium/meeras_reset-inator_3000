@@ -10,10 +10,14 @@ FEATURES
 
 -Possibly in a future update (in no particular update):
     -Support for other minecraft versions past 1.9 (priority 1.14 and 1.15)
-    -A separate application or maybe function for tourney seedfinder where you can import a list of seeds as a CSV file, with the resetter going through each seed one by one
+    -A separate application or maybe function for tourney seedfinder where you can import 
+        a list of seeds as a CSV file, with the resetter going through each seed one by one
     -Deletion of past saves
     -A better GUI
     -Better optimized macro code
+    -Ability to choose the hotkeys
+    -Feel free to contact me (contact details towards the end of the README) if you have 
+        any other suggestions, I'm open to considering anything
 
 
 HOW TO
@@ -31,7 +35,8 @@ which is recommended for ease of verification. (delete old worlds if it's gettin
 mess up the whole "70 should be fine" thing).
 
 Once you've chosen settings, click "Solidify Settings", and the button will remain pressed down as it applies
-the settings, this is normal. For me it takes ~10 seconds, but can take longer depending on hardware (hopefully ill be fixing this in a future update).
+the settings, this is normal. For me it takes ~10 seconds, but can take longer depending on 
+hardware (hopefully ill be fixing this in a future update).
 If you want to change settings, do so and hit "Solidify Settings" again.
 
 
@@ -42,8 +47,8 @@ the Minecraft window is in focus).
 CTRL+L restarts the GUI. You can do this at the end of runs and leave the program, or if you'd 
 like to change settings at any time.
 
-This program is currently designed to work with world files already existent, at the very least one (since minecraft skips the worlds list screen 
-if the user does not have saves).
+This program is currently designed to work with world files already existent, at the very least one 
+(since minecraft skips the worlds list screen if the user does not have saves).
 I recommend Emma's End Practice Map [if you don't have it already, go get it. right now. im serious
 go right now, its in javacord somewhere. not sponsored btw].
 
