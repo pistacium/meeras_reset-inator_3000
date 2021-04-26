@@ -8,7 +8,7 @@ FEATURES
 -Any difficulty (Easy, Normal, Hard, Hardcore, Peaceful)
 -Any delay (I recommend 2000 / framerate of video recording)
 
--Possibly in a future update (in no particular update):
+-Possibly in a future update (in no particular order):
     -Support for other minecraft versions past 1.9 (priority 1.14 and 1.15)
     -A separate application or maybe function for tourney seedfinder where you can import 
         a list of seeds as a CSV file, with the resetter going through each seed one by one
