@@ -5,9 +5,9 @@ block_cipher = None
 
 
 a = Analysis(['meeras_reset-inator_3000.py'],
-             pathex=['C:\\Users\\pistacium\\Documents\\SRC Stuff\\testReset-inator'],
+             pathex=['C:\\Users\\pistacium\\Documents\\SRC Stuff\\meeras_reset-inator_3000'],
              binaries=[],
-             datas=[],
+             datas=[('macrosettings.txt', '.')],
              hiddenimports=[],
              hookspath=[],
              runtime_hooks=[],
