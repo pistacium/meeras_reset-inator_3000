@@ -26,22 +26,25 @@ class TimerSettings:
 
         master.protocol("WM_DELETE_WINDOW", self.on_closing)
 
-        #CREATE
-        self.label = Label(master, text="Choose Settings:")
+        master.configure(bg="#ffe9ec")
 
-        self.versionlabel = Label(master, text="Choose Version")
+        #CREATE
+        
+        self.label = Label(master, text="Choose Settings:", bg="#ffe9ec")
+
+        self.versionlabel = Label(master, text="Choose Version", bg="#ffe9ec")
         self.version = Button(master, text="1.16", command=self.ChangeVersion, bg="#ffedf7")
         
-        self.seedtypelabel = Label(master, text="Random or Set Seed:")
+        self.seedtypelabel = Label(master, text="Random or Set Seed:", bg="#ffe9ec")
         self.seedtype = Button(master, text="RSG", command=self.ChangeSeedType, bg="#ffedf7")
 
-        self.difficultylabel = Label(master, text="Difficulty:")
+        self.difficultylabel = Label(master, text="Difficulty:", bg="#ffe9ec")
         self.difficulty = Button(master, text="EASY", command=self.ChangeDifficulty, bg="#ffedf7")
         
-        self.seedlabel = Label(master, text="Enter the seed for SSG:")
+        self.seedlabel = Label(master, text="Enter the seed for SSG:", bg="#ffe9ec")
         self.seedentry = Entry(master, borderwidth=2, bg="#ffedf7")
 
-        self.delaylabel = Label(master, text="Macro Delay (ms):")
+        self.delaylabel = Label(master, text="Macro Delay (ms):", bg="#ffe9ec")
         self.delayentry = Entry(master, borderwidth=2, bg="#ffedf7")
         self.delayentry.insert(END, '70')
 
@@ -50,7 +53,7 @@ class TimerSettings:
 
         self.createac = Button(master, text="Solidify Settings", bg="#ffddf7", command=self.SetVars)
 
-        self.explainrun = Label(master, text="Once you solidify, click Run Macro")
+        self.explainrun = Label(master, text="Once you solidify, click Run Macro", bg="#ffe9ec")
         self.runahk = Button(master, text="Run Macro", bg="#ffddf7", command=self.SetAHK)
         
         #PLACE
