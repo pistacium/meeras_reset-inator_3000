@@ -1,4 +1,14 @@
 meera's reset-inator 3000
+
+VERSION 2.1
+-------------------------------------------------------
+-added installer for easy access
+	-default settings should be fine, itll place the exe in your programfiles (if not, itll
+	tell you where its going to install. There is also an uninstaller there)
+
+-made background pink as well! she looks so pretty!!!!
+
+
 VERSION 2.0
 -------------------------------------------------------
 CHANGES:
