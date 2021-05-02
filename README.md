@@ -84,7 +84,7 @@ go right now. not sponsored btw].
 
 If any issues arise, message me on discord meera#6969, or on twitter @pistaacium.
 
-\- Meera Pistacium
+\- Meera Pistacium & notfire
 
 P.S.
 amogus
