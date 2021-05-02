@@ -45,10 +45,8 @@ Download the .exe installer from github under releases: [DOWNLOAD](https://githu
 This is written in python, which not everyone has, so we use pyinstaller to make it into an exe file.
 
 #### Requirements:
-- tkinter
-- keyboard
-- global_hotkeys
-- pypiwin32
+Listed in requirements.txt. To install them all, run `pip install -r requirements.txt` in a terminal.
+
 
 If you want to make it yourself, run `pyinstaller meeras_reset-inator_3000.py --icon=kitty.ico --onefile` in either command prompt or powershell.
 
