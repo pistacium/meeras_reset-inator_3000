@@ -32,12 +32,7 @@ Minecraft versions currently supported: **1.16, 1.14, 1.15**.
 
 
 ## 📥installation
-Download from github, the zip or just download source
-
-Application is in "dist\meeras reset-inator 3000\meeras reset-inator 3000.exe"
-I recommend right clicking on it and sending to desktop, or wherever, for ease of access.
-For keeping your computer neat, I also recommend putting it in some 
-program files instead of Downloads or wherever you have it right now.
+Download the .exe installer from github under releases: [DOWNLOAD](https://github.com/pistacium/meeras_reset-inator_3000/releases/tag/v2.1)
 
 
 ## ⌨usage
