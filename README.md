@@ -1,6 +1,6 @@
 # meera's reset-inator 3000
 
-#### Windows Only!
+Windows Only!
 
 ## 📝 changelog
 
@@ -44,7 +44,7 @@ Download the .exe installer from github under releases: [DOWNLOAD](https://githu
 
 This is written in python, which not everyone has, so we use pyinstaller to make it into an exe file.
 
-Requirements:
+#### Requirements:
 - tkinter
 - keyboard
 - global_hotkeys
