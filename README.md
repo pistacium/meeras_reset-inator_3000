@@ -48,7 +48,7 @@ This is written in python, which not everyone has, so we use pyinstaller to make
 Listed in requirements.txt. To install them all, run `pip install -r requirements.txt` in a terminal.
 
 
-If you want to make it yourself, run `pyinstaller meeras_reset-inator_3000.py --icon=kitty.ico --onefile` in either command prompt or powershell.
+If you want to make it yourself, run `pyinstaller meeras_reset-inator_3000.py --icon=kitty.ico --onefile` in a terminal.
 
 ### Setup File
 
