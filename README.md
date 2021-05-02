@@ -35,7 +35,7 @@ Minecraft versions currently supported: **1.16, 1.14, 1.15**.
 
 
 ## 📥 Installation
-Download the .exe installer from github under releases: [DOWNLOAD](https://github.com/pistacium/meeras_reset-inator_3000/releases/tag/v2.1)
+Download the installer or zip file from github under releases: [DOWNLOAD](https://github.com/pistacium/meeras_reset-inator_3000/releases/latest)
 
 
 ## 🧱 Building
